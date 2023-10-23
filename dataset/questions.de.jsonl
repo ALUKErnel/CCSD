@@ -1,0 +1,194 @@
+{"id": 2, "text": "Finden Sie es grundsätzlich richtig, dass der Staat die Fremdbetreuung von Kindern finanziell unterstützt (mit Steuerabzügen oder Subventionen)?", "topic": "Welfare"}
+{"id": 4, "text": "Soll zusätzlich zur bestehenden Mutterschaftsversicherung ein 24-wöchiger Elternurlaub (\"Elternzeit\") eingeführt werden?", "topic": "Welfare"}
+{"id": 6, "text": "Die Invalidenversicherung spricht bei nicht objektiv nachweisbaren Schmerzstörungen (z.B. als Folge eines Schleudertraumas) keine IV-Renten mehr zu. Finden Sie dies richtig?", "topic": "Welfare"}
+{"id": 7, "text": "Würden Sie eine nationale Spitalplanung befürworten, die auch zur Schliessung von Spitälern führen kann?", "topic": "Healthcare"}
+{"id": 9, "text": "Finden Sie es richtig, dass einzelne ärztliche Leistungen der Komplementärmedizin (Alternativmedizin) wieder von der Grundversicherung vergütet werden?", "topic": "Healthcare"}
+{"id": 11, "text": "Befürworten Sie die Harmonisierung von Lehrplänen zwischen den Kantonen (z.B. durch die Projekte Lehrplan 21 oder PER)?", "topic": "Education"}
+{"id": 12, "text": "Finden Sie es richtig, wenn Schulen Dispense aus religiösen Gründen für einzelne Fächer oder Veranstaltungen bewilligen (z.B. Sport- oder Sexualkundeunterricht)?", "topic": "Education"}
+{"id": 13, "text": "Gemäss dem Konzept der integrativen Schule werden Kinder mit Lernschwierigkeiten oder Behinderungen grundsätzlich in regulären Schulklassen unterrichtet. Befürworten Sie dies?", "topic": "Education"}
+{"id": 14, "text": "Sollte der wirtschaftliche Nutzen von Forschungsprojekten bei der Vergabe von Fördergeldern des Bundes stärker berücksichtigt werden?", "topic": "Education"}
+{"id": 15, "text": "Sind Sie dafür, dass der Status von Sans-Papiers durch eine einmalige kollektive Erteilung von Aufenthaltsbewilligungen legalisiert wird?", "topic": "Immigration"}
+{"id": 16, "text": "Würden Sie es befürworten, wenn für Ausländer/innen, die seit mindestens zehn Jahren in der Schweiz leben, gesamtschweizerisch das Stimm- und Wahlrecht auf Gemeindeebene eingeführt würde?", "topic": "Immigration"}
+{"id": 17, "text": "Soll sich der Staat finanziell stärker für die Integration von Ausländer/innen engagieren?", "topic": "Immigration"}
+{"id": 18, "text": "Soll der Zugang zur erleichterten Einbürgerung durch den Bund erschwert werden?", "topic": "Immigration"}
+{"id": 19, "text": "Soll die Schweiz vermehrt Flüchtlingsgruppen aufnehmen, für die das UN-Flüchtlingshilfswerk (UNHCR) Aufnahmeländer sucht (sog. Kontingentsflüchtlinge)?", "topic": "Immigration"}
+{"id": 20, "text": "Eine Volksinitiative möchte die Zuwanderung regulieren und das migrationsbedingte Bevölkerungswachstum auf 0.2% pro Jahr beschränken. Unterstützen Sie diese Initiative?", "topic": "Immigration"}
+{"id": 21, "text": "Sollen gleichgeschlechtliche Paare, die in eingetragener Partnerschaft leben, Kinder adoptieren dürfen?", "topic": "Society"}
+{"id": 22, "text": "Soll der Konsum von weichen und harten Drogen sowie deren Besitz für den Eigengebrauch legalisiert werden?", "topic": "Security"}
+{"id": 23, "text": "Der Schwangerschaftsabbruch ist in der Schweiz in den ersten zwölf Wochen der Schwangerschaft straflos möglich. Finden Sie das richtig?", "topic": "Society"}
+{"id": 24, "text": "Würden Sie es befürworten, wenn in der Schweiz die direkte aktive Sterbehilfe durch einen Arzt straffrei möglich wäre?", "topic": "Society"}
+{"id": 25, "text": "Würden Sie die Einführung einer Frauenquote in Verwaltungsräten börsenkotierter Unternehmen befürworten?", "topic": "Society"}
+{"id": 26, "text": "Die Schweiz kennt relativ strenge Regelungen bei der Fortpflanzungsmedizin. Sollten diese gelockert werden?", "topic": "Society"}
+{"id": 27, "text": "Soll die Möglichkeit der Pauschalbesteuerung von ausländischen Bürger/innen in allen Kantonen abgeschafft werden?", "topic": "Finances"}
+{"id": 28, "text": "Würden Sie es begrüssen, wenn der Steuerwettbewerb zwischen den Kantonen grundsätzlich stärker beschränkt würde?", "topic": "Finances"}
+{"id": 29, "text": "Eine Volksinitiative möchte die Benachteiligung von Ehepaaren im Vergleich zu anderen Formen des Zusammenlebens bei Steuern und Renten (Heiratsstrafe) abschaffen. Dabei sollen Ehepaare weiterhin als Wirtschaftsgemeinschaft betrachtet werden und ihr Einkommen gemeinsam versteuern (bspw. nach dem \"Splitting-Modell\"). Unterstützen Sie dies?", "topic": "Finances"}
+{"id": 30, "text": "Haben für Sie Senkungen der Bundessteuern in den nächsten vier Jahren Priorität?", "topic": "Finances"}
+{"id": 31, "text": "Soll der Erwerb von selbst bewohntem Wohneigentum durch Steuerabzüge für das Bausparen zusätzlich gefördert werden?", "topic": "Finances"}
+{"id": 32, "text": "Befürworten Sie die Einführung eines für alle Arbeitnehmenden gültigen Mindestlohnes von 3'800 CHF (für eine 100%-Stelle / 40h-Woche)?", "topic": "Economy"}
+{"id": 33, "text": "Sind Sie für eine vollständige Liberalisierung der Ladenöffnungszeiten (Geschäfte können die Öffnungszeiten nach freiem Ermessen festlegen)?", "topic": "Economy"}
+{"id": 34, "text": "Sollen Unternehmen mit mehr als 250 Beschäftigten verpflichtet werden, behinderten Personen Arbeitsplätze anzubieten?", "topic": "Economy"}
+{"id": 35, "text": "Würden Sie die Einführung des automatischen Austausches von Bankkundendaten zwischen der Schweiz und ausländischen Steuerbehörden befürworten?", "topic": "Foreign Policy"}
+{"id": 36, "text": "Soll die Post verpflichtet werden, ein flächendeckendes Poststellennetz aufrechtzuerhalten?", "topic": "Economy"}
+{"id": 37, "text": "Eine Volksinitiative will festlegen, dass innerhalb eines Unternehmens der höchste Lohn maximal dem Zwölffachen des kleinsten Lohnes entsprechen darf (1:12-Initiative). Unterstützen Sie dieses Anliegen?", "topic": "Economy"}
+{"id": 38, "text": "Der Bundesrat will für systemrelevante Grossbanken verschärfte Regulierungen (z.B. Eigenkapitalvorschriften) einführen, die über die international üblichen Vorschriften hinausgehen (sogenannte \"Too-big-to-fail“-Problematik). Unterstützen Sie dies?", "topic": "Economy"}
+{"id": 39, "text": "Heute werden 1% aller Direktzahlungen zur Förderung der Bio-Produktion aufgewendet. Sollte dieser Anteil im Rahmen der Agrarpolitik 2014–2017 zulasten der konventionellen Landwirtschaftsbetriebe erhöht werden?", "topic": "Economy"}
+{"id": 40, "text": "Soll in der Schweiz anstelle des freien Milchmarktes wieder eine zentrale Mengensteuerung der Milchproduktion eingeführt werden?", "topic": "Economy"}
+{"id": 41, "text": "Soll das geltende Moratorium für gentechnisch veränderte Pflanzen und Tiere in der Schweizer Landwirtschaft über 2013 hinaus verlängert werden?", "topic": "Infrastructure & Environment"}
+{"id": 42, "text": "Der Bundesrat möchte bis spätestens 2034 aus der Atomenergie aussteigen (d.h. die bestehenden Atomkraftwerke werden stillgelegt und keine neuen mehr gebaut). Unterstützen Sie dieses Vorhaben?", "topic": "Infrastructure & Environment"}
+{"id": 43, "text": "Befürworten Sie die Einführung einer CO2-Abgabe auf Treibstoffe, wenn die Schweiz die eigenen Klimaschutzziele nicht erreicht?", "topic": "Infrastructure & Environment"}
+{"id": 44, "text": "Eine Volksinitiative fordert, dass die Gesamtfläche der Bauzonen in der Schweiz für die nächsten 20 Jahre auf dem heutigen Stand begrenzt wird. Befürworten Sie dieses Anliegen?", "topic": "Infrastructure & Environment"}
+{"id": 45, "text": "Befürworten Sie eine Lockerung der Schutzbestimmungen für Grossraubtiere (Luchs, Wolf, Bär)?", "topic": "Infrastructure & Environment"}
+{"id": 46, "text": "Sollen für den Bau und den Ausbau von Wind-, Solar- und Wasserkraftwerken die Vorschriften des Umwelt- und Landschaftsschutzes gelockert werden?", "topic": "Infrastructure & Environment"}
+{"id": 47, "text": "Sollen sich Bahnfahrer/innen in Zukunft durch höhere Billettpreise stärker an den Kosten des Ausbaus und Unterhalts des Schienennetzes beteiligen?", "topic": "Infrastructure & Environment"}
+{"id": 48, "text": "Sollen stark befahrene Autobahnabschnitte (z.B. Bern–Zürich oder Lausanne–Genf) ausgebaut werden?", "topic": "Infrastructure & Environment"}
+{"id": 49, "text": "Würden Sie es befürworten, wenn ab der Eröffnung der NEAT (2017) der Gotthard-Strassentunnel für den alpenquerenden Lastwagenverkehr gesperrt werden würde?", "topic": "Infrastructure & Environment"}
+{"id": 50, "text": "Eine eidenössische Volksinitiative verlangt, dass der Bundesrat direkt vom Volk gewählt werden soll. Unterstützen Sie dieses Anliegen?", "topic": "Political System"}
+{"id": 51, "text": "Sollen eidgenössische Volksinitiativen für ungültig erklärt werden, wenn sie gegen die Europäische Menschenrechtskonvention (EMRK) verstossen?", "topic": "Political System"}
+{"id": 52, "text": "Sollte die Finanzierung von Parteien sowie von Wahl- und Abstimmungskampagnen vollständig offengelegt werden?", "topic": "Political System"}
+{"id": 53, "text": "Sollen Schweizer Jugendliche frei zwischen einem Militär- oder einem zivilen Ersatzdienst wählen können?", "topic": "Security"}
+{"id": 54, "text": "Der Bundesrat schlägt vor, den Bestand der Armee von heute 190'000 auf 80'000 Mann zu reduzieren. Unterstützen Sie diesen Vorschlag?", "topic": "Security"}
+{"id": 55, "text": "In den letzten Jahren wurden die Regeln zum Erwerb und Besitz von Waffen verschärft. Begrüssen Sie diese Entwicklung?", "topic": "Security"}
+{"id": 56, "text": "Soll das Jugendstrafrecht in Zukunft mehr Gewicht auf das Verbüssen längerer Haftstrafen in geschlossenen Anstalten als auf Resozialisierungsmassnahmen legen?", "topic": "Security"}
+{"id": 57, "text": "Finden Sie es richtig, dass die Armee polizeiliche Aufgaben im Innern wahrnimmt (z.B. bei der Bewachung von Botschaften und Konsulaten, beim Grenzschutz oder bei Grossanlässen wie dem WEF)?", "topic": "Security"}
+{"id": 58, "text": "Sollen die Befugnisse der Sicherheitsbehörden zur präventiven Überwachung des Post-, Telefon- und E-Mail-Verkehrs ausgeweitet werden?", "topic": "Security"}
+{"id": 59, "text": "Soll die Schweiz innerhalb der nächsten vier Jahre EU-Beitrittsverhandlungen aufnehmen?", "topic": "Foreign Policy"}
+{"id": 60, "text": "Soll die Schweiz ein Agrarfreihandelsabkommen mit der EU abschliessen?", "topic": "Foreign Policy"}
+{"id": 61, "text": "Befürworten Sie das bestehende Personenfreizügigkeitsabkommen mit der EU?", "topic": "Immigration"}
+{"id": 62, "text": "Die Schweizer Armee kann heute zum Selbstschutz bewaffnet bei friedenserhaltenden Einsätzen unter UNO- oder OSZE-Mandat im Ausland eingesetzt werden. Befürworten Sie dies?", "topic": "Foreign Policy"}
+{"id": 63, "text": "Die Schweiz verfolgt seit einigen Jahren eine aktivere Aussenpolitik, die sich weniger an der strikten Neutralität orientiert. Begrüssen Sie dies?", "topic": "Foreign Policy"}
+{"id": 64, "text": "Soll die Einhaltung der Menschenrechte bei wirtschaftlichen Abkommen mit anderen Ländern (z.B. Freihandelsabkommen) stärker berücksichtigt werden?", "topic": "Foreign Policy"}
+{"id": 739, "text": "Sind Sie für eine vollständige Liberalisierung der Geschäftsöffnungszeiten (Geschäfte können die Öffnungszeiten nach freiem Ermessen festlegen)?", "topic": "Economy"}
+{"id": 885, "text": "Sind Sie für eine vollständige Liberalisierung der Ladenöffnungszeiten (Geschäfte können die Öffnungszeiten nach freiem Ermessen festlegen)?", "topic": "Economy"}
+{"id": 1433, "text": "Befürworten Sie eine Erhöhung des Rentenalters für Frauen und Männer (z.B. auf 67 Jahre)?", "topic": "Welfare"}
+{"id": 1434, "text": "Finden Sie es richtig, dass der Bund die ausserfamiliäre Kinderbetreuung finanziell unterstützt?", "topic": "Welfare"}
+{"id": 1435, "text": "Soll zusätzlich zur Mutterschaftsversicherung ein mehrwöchiger bezahlter Vaterschaftsurlaub eingeführt werden?", "topic": "Welfare"}
+{"id": 1436, "text": "Würden Sie es begrüssen, wenn gesamtschweizerisch Ergänzungsleistungen für Familien mit tiefem Einkommen eingeführt würden?", "topic": "Welfare"}
+{"id": 1437, "text": "Befürworten Sie eine Anpassung der Sozialhilfe-Richtlinien, die Leistungskürzungen für Grossfamilien und junge Erwachsene vorsieht?", "topic": "Welfare"}
+{"id": 1438, "text": "Soll der Umwandlungssatz, der die Höhe der BVG-Rente (2. Säule) regelt, an die gestiegene Lebenserwartung angepasst und von 6.8 auf 6.0% gesenkt werden?", "topic": "Welfare"}
+{"id": 1439, "text": "Würden Sie eine Erhöhung der Mindestfranchise bei der obligatorischen Krankenversicherung (KVG) von 300 auf 500 CHF befürworten?", "topic": "Healthcare"}
+{"id": 1440, "text": "Soll eine Impfpflicht für Kinder gemäss dem schweizerischen Impfplan eingeführt werden?", "topic": "Healthcare"}
+{"id": 1441, "text": "Sollen Behandlungen mit Methoden der komplementären (alternativen) Medizin nach 2017 weiterhin durch die Grundversicherung (KVG) bezahlt werden?", "topic": "Healthcare"}
+{"id": 1442, "text": "Sollen in der Schweiz vermehrt Spitäler geschlossen werden, um die Kosten im Gesundheitsbereich zu senken?", "topic": "Healthcare"}
+{"id": 1443, "text": "Soll sich der Staat stärker für gleiche Bildungschancen einsetzen (z.B. mit Nachhilfe-Gutscheinen für Schüler/innen aus Familien mit geringem Einkommen)?", "topic": "Education"}
+{"id": 1444, "text": "Befürworten Sie die Harmonisierung von Lehrplänen zwischen den Kantonen (z.B. durch die Projekte Lehrplan 21 oder PER)?", "topic": "Education"}
+{"id": 1445, "text": "Soll in allen Kantonen in der Primarschule eine zweite Landessprache unterrichtet werden?", "topic": "Education"}
+{"id": 1446, "text": "Gemäss dem Konzept der integrativen Schule werden Kinder mit Lernschwierigkeiten oder Behinderungen grundsätzlich in regulären Schulklassen unterrichtet. Befürworten Sie dies?", "topic": "Education"}
+{"id": 1447, "text": "Finden Sie es richtig, wenn Schulen Dispense aus religiösen Gründen für einzelne Fächer oder Veranstaltungen bewilligen (z.B. Turn-/Schwimmunterricht, Schullager oder Sexualkundeunterricht)?", "topic": "Education"}
+{"id": 1448, "text": "Sollte der wirtschaftliche Nutzen von Forschungsprojekten bei der Vergabe von Fördergeldern des Bundes stärker berücksichtigt werden?", "topic": "Education"}
+{"id": 1449, "text": "Würden Sie es befürworten, wenn für Ausländer/innen, die seit mindestens zehn Jahren in der Schweiz leben, gesamtschweizerisch das Stimm- und Wahlrecht auf Gemeindeebene eingeführt würde?", "topic": "Immigration"}
+{"id": 1450, "text": "Soll die Einbürgerung von Ausländer/innen der dritten Generation erleichtert werden?", "topic": "Immigration"}
+{"id": 1451, "text": "Soll die Aufenthaltserlaubnis für Migrant/innen aus Nicht-EU/EFTA-Staaten schweizweit an die Erfüllung verbindlicher Integrationsvereinbarungen geknüpft werden?", "topic": "Immigration"}
+{"id": 1452, "text": "Sollte der Status von Sans-Papiers durch eine einmalige kollektive Erteilung von Aufenthaltsbewilligungen legalisiert werden?", "topic": "Immigration"}
+{"id": 1453, "text": "Soll die Schweiz vermehrt Flüchtlingsgruppen direkt aus Krisengebieten aufnehmen, für die das UN-Flüchtlingshilfswerk (UNHCR) Aufnahmeländer sucht (sog. Kontingentsflüchtlinge)?", "topic": "Immigration"}
+{"id": 1454, "text": "Sollen gleichgeschlechtliche Paare, die in eingetragener Partnerschaft leben, Kinder adoptieren dürfen?", "topic": "Society"}
+{"id": 1455, "text": "Im Juni 2015 hat das Volk einer Lockerung der Regeln in der Fortpflanzungsmedizin zugestimmt (Abstimmung über die Präimplantationsdiagnostik, PID). Begrüssen Sie diesen Entscheid?", "topic": "Society"}
+{"id": 1456, "text": "Soll der Konsum von Cannabis sowie dessen Besitz für den Eigengebrauch legalisiert werden?", "topic": "Society"}
+{"id": 1457, "text": "Würden Sie die Einführung einer Frauenquote in Verwaltungsräten und Geschäftsleitungen börsenkotierter Unternehmen befürworten?", "topic": "Society"}
+{"id": 1458, "text": "Würden Sie es befürworten, wenn in der Schweiz die direkte aktive Sterbehilfe durch einen Arzt straffrei möglich wäre?", "topic": "Society"}
+{"id": 1459, "text": "Würden Sie es begrüssen, wenn in der Schweiz die automatische Organspende (Widerspruchslösung) eingeführt würde?", "topic": "Society"}
+{"id": 1460, "text": "Soll sich der Bund aus der Kulturförderung zurückziehen?", "topic": "Society"}
+{"id": 1461, "text": "Sollen Ehepaare getrennt als Einzelpersonen steuerlich veranlagt werden (Individualbesteuerung)?", "topic": "Finances"}
+{"id": 1462, "text": "Haben für Sie Steuersenkungen auf Bundesebene in den nächsten vier Jahren Priorität?", "topic": "Finances"}
+{"id": 1463, "text": "Sollen Bund und Kantone im Rahmen der Unternehmenssteuerreform (USR III) Einbussen bei den Steuereinnahmen in Kauf nehmen, um international mobile Firmen in der Schweiz zu halten?", "topic": "Finances"}
+{"id": 1464, "text": "Befürworten Sie die Einführung einer Kapitalgewinnsteuer auf Wertschriften?", "topic": "Finances"}
+{"id": 1465, "text": "Die finanzstarken Kantone möchten ihre Beitragszahlungen an die finanzschwachen Kantone im Rahmen des Finanzausgleichs (NFA) deutlich reduzieren. Unterstützen Sie dieses Anliegen?", "topic": "Finances"}
+{"id": 1466, "text": "Soll das Bankgeheimnis im Inland gegenüber schweizerischen Steuerbehörden aufgehoben werden?", "topic": "Finances"}
+{"id": 1467, "text": "Befürworten Sie die Einführung eines für alle Arbeitnehmenden gültigen Mindestlohnes von 4'000 CHF (für eine Vollzeitstelle)?", "topic": "Economy"}
+{"id": 1468, "text": "Soll der Kündigungsschutz für ältere Angestellte (über 50 Jahre) ausgebaut werden?", "topic": "Economy"}
+{"id": 1469, "text": "Sollen die Direktzahlungen zur Förderung der Bio-Produktion zulasten der konventionellen Landwirtschaftsbetriebe erhöht werden?", "topic": "Economy"}
+{"id": 1470, "text": "Sollte sich die Regionalpolitik des Bundes künftig stärker auf die wirtschaftliche Förderung in Städten und Agglomerationen konzentrieren?", "topic": "Economy"}
+{"id": 1471, "text": "Sollten die bestehenden Importerleichterungen für Lebensmittel aus der EU (Cassis-de-Dijon-Prinzip) abgeschafft werden?", "topic": "Economy"}
+{"id": 1472, "text": "Sind Sie für eine vollständige Liberalisierung der Geschäftsöffnungszeiten (Festlegung der Öffnungszeiten nach freiem Ermessen)?", "topic": "Economy"}
+{"id": 1473, "text": "Befürworten Sie ein generelles Werbeverbot für Alkohol und Tabak?", "topic": "Economy"}
+{"id": 1474, "text": "Befürworten Sie eine vollständige Liberalisierung des Strommarktes (auch für KMU und Privathaushalte)?", "topic": "Infrastructure & Environment"}
+{"id": 1475, "text": "Eine Volksinitiative verlangt den Ausstieg aus der Atomenergie bis 2029. Befürworten Sie dies?", "topic": "Infrastructure & Environment"}
+{"id": 1476, "text": "Sollen für den Bau und den Ausbau von Wind-, Solar- und Wasserkraftwerken die Vorschriften des Umwelt- und Landschaftsschutzes gelockert werden?", "topic": "Infrastructure & Environment"}
+{"id": 1477, "text": "Bislang wird auf fossile Brennstoffe (Heizöl, Erdgas) eine CO2-Abgabe erhoben. Soll diese Abgabe auch auf Treibstoffe (z.B. Benzin, Diesel) ausgeweitet werden?", "topic": "Infrastructure & Environment"}
+{"id": 1478, "text": "Soll das geltende Moratorium für gentechnisch veränderte Pflanzen und Tiere in der Schweizer Landwirtschaft über das Jahr 2017 hinaus verlängert werden?", "topic": "Infrastructure & Environment"}
+{"id": 1479, "text": "Befürworten Sie eine Lockerung der Schutzbestimmungen für Grossraubtiere (Luchs, Wolf, Bär)?", "topic": "Infrastructure & Environment"}
+{"id": 1480, "text": "Befürworten Sie ein Verbot der Nutzung von Gebirgslandeplätzen für rein touristische Helikopterflüge (z.B. Heliskiing)?", "topic": "Infrastructure & Environment"}
+{"id": 1481, "text": "Im Hinblick auf die Sanierung des Gotthardstrassentunnels hat das Parlament den Bau einer zweiten Röhre beschlossen. Befürworten Sie dies?", "topic": "Infrastructure & Environment"}
+{"id": 1482, "text": "Sollen stark befahrene Autobahnabschnitte (z.B. Bern–Zürich oder Lausanne–Genf) auf durchgehend drei Spuren ausgebaut werden?", "topic": "Infrastructure & Environment"}
+{"id": 1483, "text": "Eine Volksinitiative fordert, dass die Gesamtfläche der Bauzonen in der Schweiz auf dem heutigen Stand begrenzt wird. Befürworten Sie dieses Anliegen?", "topic": "Infrastructure & Environment"}
+{"id": 1484, "text": "Sollte die Finanzierung von Parteien sowie von Wahl- und Abstimmungskampagnen vollständig offengelegt werden?", "topic": "Political System"}
+{"id": 1485, "text": "Die Entscheide des Europäischen Gerichtshofs für Menschenrechte (EGMR) sind für die Schweiz verbindlich. Finden Sie dies richtig?", "topic": "Political System"}
+{"id": 1486, "text": "Würden Sie die Einführung eines obligatorischen allgemeinen Bürgerdienstes (Militär-, erweiterter Zivildienst oder Miliz-Engagement in der Gemeinde) für Männer und Frauen befürworten?", "topic": "Political System"}
+{"id": 1487, "text": "Befürworten Sie eine deutliche Reduktion des aktuellen Armeebestands auf höchstens 100'000 Soldaten?", "topic": "Security"}
+{"id": 1488, "text": "In den letzten Jahren wurden die Regeln zum Erwerb und Besitz von Waffen verschärft. Befürworten Sie diese Entwicklung?", "topic": "Security"}
+{"id": 1489, "text": "Sollen die Befugnisse der Sicherheitsbehörden zur präventiven Überwachung des Post-, Telefon- und E-Mail-Verkehrs ausgeweitet werden?", "topic": "Security"}
+{"id": 1490, "text": "Soll das Jugendstrafrecht in Zukunft mehr Gewicht auf das Verbüssen längerer Haftstrafen in geschlossenen Anstalten als auf Resozialisierungsmassnahmen legen?", "topic": "Security"}
+{"id": 1491, "text": "Die Schweiz hat eines der strengsten Gesetze betreffend Geschwindigkeitsübertretungen im Strassenverkehr (\"Raser\"-Gesetzgebung). Sollte dieses gelockert werden?", "topic": "Security"}
+{"id": 1492, "text": "Soll die Schweiz das Schengen-Abkommen mit der EU kündigen und wieder verstärkte Personenkontrollen direkt an der Grenze einführen?", "topic": "Security"}
+{"id": 1493, "text": "Soll die Schweiz innerhalb der nächsten vier Jahre EU-Beitrittsverhandlungen aufnehmen?", "topic": "Foreign Policy"}
+{"id": 1494, "text": "Hat für Sie die strikte Umsetzung der Masseneinwanderungsinitiative Priorität gegenüber dem Erhalt der bilateralen Verträge mit der EU?", "topic": "Foreign Policy"}
+{"id": 1495, "text": "Soll die Schweiz mit den USA Verhandlungen über ein Freihandelsabkommen aufnehmen?", "topic": "Foreign Policy"}
+{"id": 1496, "text": "Sollen die Haftungsregeln für Unternehmen aus der Schweiz in Bezug auf die Einhaltung von Menschenrechten und Umweltstandards im Ausland verschärft werden?", "topic": "Foreign Policy"}
+{"id": 1497, "text": "Soll sich die Schweizer Aussenpolitik stärker an einer strikten Auslegung der Neutralität orientieren?", "topic": "Foreign Policy"}
+{"id": 1732, "text": "Soll das Jugendstrafrecht in Zukunft mehr Gewicht auf das Verbüssen längerer Haftstrafen in geschlossenen Anstalten als auf Resozialisierungsmassnahmen legen?", "topic": "Security"}
+{"id": 2697, "text": "Finden Sie es richtig, wenn Schulen Dispense aus religiösen Gründen für einzelne Fächer oder Veranstaltungen bewilligen (z.B. Turn-/Schwimmunterricht, Schullager oder Sexualkundeunterricht)?", "topic": "Education"}
+{"id": 2701, "text": "Gemäss dem Konzept der integrativen Schule werden Kinder mit Lernschwierigkeiten oder Behinderungen grundsätzlich in regulären Schulklassen unterrichtet. Befürworten Sie dies?", "topic": "Education"}
+{"id": 2715, "text": "Soll die Schweiz das Schengen-Abkommen mit der EU kündigen und wieder verstärkte Personenkontrollen direkt an der Grenze einführen?", "topic": "Foreign Policy"}
+{"id": 2716, "text": "Soll der Konsum von Cannabis sowie dessen Besitz für den Eigengebrauch legalisiert werden?", "topic": "Security"}
+{"id": 2736, "text": "Befürworten Sie eine Lockerung der Schutzbestimmungen für Grossraubtiere (Luchs, Wolf, Bär)?", "topic": "Infrastructure & Environment"}
+{"id": 2740, "text": "Sollen für den Bau und den Ausbau von Wind-, Solar- und Wasserkraftwerken die Vorschriften des Umwelt- und Landschaftsschutzes gelockert werden?", "topic": "Infrastructure & Environment"}
+{"id": 3224, "text": "Würden Sie es befürworten, wenn der Kanton Zürich anerkannte Flüchtlinge direkt aus Krisengebieten (sog. Kontingenzflüchtlinge des UN-Flüchtlingshilfswerks) aufnehmen würde?", "topic": "Immigration"}
+{"id": 3391, "text": "Soll der Bund Ausländer/-innen bei der Integration stärker unterstützen?", "topic": "Immigration"}
+{"id": 3392, "text": "Soll der Konsum von Cannabis legalisiert werden?", "topic": "Society"}
+{"id": 3398, "text": "Soll die Schweiz das Schengen-Abkommen mit der EU kündigen und wieder verstärkte Personenkontrollen direkt an der Grenze einführen?", "topic": "Security"}
+{"id": 3412, "text": "Befürworten Sie eine Erhöhung des Rentenalters (z.B. auf 67 Jahre)?", "topic": "Welfare"}
+{"id": 3413, "text": "Soll der Staat die Schaffung von familienergänzenden Betreuungsstrukturen finanziell stärker unterstützen?", "topic": "Welfare"}
+{"id": 3414, "text": "Eine Initiative fordert einen bezahlten Vaterschaftsurlaub von vier Wochen. Befürworten Sie dieses Anliegen?", "topic": "Welfare"}
+{"id": 3415, "text": "Sollen die Renten der Pensionskasse durch eine Senkung des Umwandlungssatzes gekürzt und an die gestiegene Lebenserwartung angepasst werden?", "topic": "Welfare"}
+{"id": 3416, "text": "Befürworten Sie Bestrebungen in den Kantonen zur Senkung der Sozialhilfeleistungen?", "topic": "Welfare"}
+{"id": 3417, "text": "Soll der Bund den gemeinnützigen Wohnungsbau verstärkt fördern?", "topic": "Welfare"}
+{"id": 3418, "text": "Sollen sich die Versicherten stärker an den Gesundheitskosten beteiligen (z.B. Erhöhung der Mindestfranchise)?", "topic": "Healthcare"}
+{"id": 3419, "text": "Würden Sie die Einführung der Widerspruchslösung bei der Organspende befürworten?", "topic": "Healthcare"}
+{"id": 3420, "text": "Soll für Kinder eine Impfpflicht gemäss dem Schweizerischen Impfplan eingeführt werden?", "topic": "Healthcare"}
+{"id": 3421, "text": "Eine Initiative fordert, dass die Prämienverbilligung so ausgestaltet wird, dass niemand mehr als zehn Prozent des verfügbaren Einkommens für die Krankenkassenprämien aufwenden muss. Befürworten Sie dies?", "topic": "Healthcare"}
+{"id": 3422, "text": "Eine Initiative möchte dem Bund mehr Kompetenzen geben, um Massnahmen zur Senkung der Gesundheitskosten zu ergreifen (Einführung einer Kostenbremse). Befürworten Sie dies?", "topic": "Healthcare"}
+{"id": 3423, "text": "Soll sich der Staat stärker für gleiche Bildungschancen einsetzen (z.B. mit Nachhilfe-Gutscheinen für Schüler/-innen aus Familien mit geringem Einkommen)?", "topic": "Education"}
+{"id": 3424, "text": "Finden Sie es richtig, wenn Schulen Dispense aus religiösen Gründen für einzelne Fächer oder Veranstaltungen bewilligen (z.B. Sport- oder Sexualkundeunterricht)?", "topic": "Education"}
+{"id": 3425, "text": "Soll der Bund die finanzielle Unterstützung für die berufliche Weiterbildung und Umschulung ausbauen?", "topic": "Education"}
+{"id": 3426, "text": "Gemäss dem Konzept der integrativen Schule werden Kinder mit Lernschwierigkeiten oder Behinderungen grundsätzlich in regulären Schulklassen unterrichtet. Befürworten Sie dies?", "topic": "Education"}
+{"id": 3427, "text": "Sollen Ausländer/-innen, die seit mindestens zehn Jahren in der Schweiz leben, das Stimm- und Wahlrecht auf Gemeindeebene erhalten?", "topic": "Immigration"}
+{"id": 3428, "text": "Ist die Begrenzung der Einwanderung für Sie wichtiger als der Erhalt der Bilateralen Verträge mit der EU?", "topic": "Immigration"}
+{"id": 3429, "text": "Sollen Sans-Papiers einfacher einen geregelten Aufenthaltsstatus erhalten?", "topic": "Immigration"}
+{"id": 3430, "text": "Befürworten Sie eine weitere Verschärfung des Asylrechts?", "topic": "Immigration"}
+{"id": 3431, "text": "Sollen die Anforderungen für Einbürgerungen erhöht werden?", "topic": "Immigration"}
+{"id": 3432, "text": "Sollen gleichgeschlechtliche Paare in allen Bereichen die gleichen Rechte wie heterosexuelle Paare haben?", "topic": "Society"}
+{"id": 3433, "text": "Sollen die Regeln der Fortpflanzungsmedizin weiter gelockert werden?", "topic": "Society"}
+{"id": 3434, "text": "Befürworten Sie eine strengere Kontrolle der Lohngleichheit von Frauen und Männern?", "topic": "Society"}
+{"id": 3435, "text": "Würden Sie es befürworten, wenn in der Schweiz die direkte aktive Sterbehilfe durch eine/-n Arzt/Ärztin straffrei möglich wäre?", "topic": "Society"}
+{"id": 3436, "text": "Haben für Sie Steuersenkungen auf Bundesebene in den nächsten vier Jahren Priorität?", "topic": "Finances"}
+{"id": 3437, "text": "Befürworten Sie eine weitergehende Reduktion der Beitragszahlungen finanzstarker Kantone an die finanzschwachen Kantone im Rahmen des Finanzausgleichs (NFA)?", "topic": "Finances"}
+{"id": 3438, "text": "Sollen Ehepaare getrennt als Einzelpersonen besteuert werden (Individualbesteuerung)?", "topic": "Finances"}
+{"id": 3439, "text": "Befürworten Sie eine Beschränkung des Wettbewerbs zwischen den Kantonen bei der Unternehmenssteuer?", "topic": "Finances"}
+{"id": 3440, "text": "Sollen Privathaushalte ihren Stromanbieter frei wählen können (vollständige Liberalisierung des Strommarktes)?", "topic": "Economy"}
+{"id": 3441, "text": "Befürworten Sie die Einführung eines für alle Arbeitnehmenden gültigen Mindestlohnes von CHF 4'000 für eine Vollzeitstelle?", "topic": "Economy"}
+{"id": 3442, "text": "Sollen Schweizer Unternehmen durch die Einführung von Investitionskontrollen besser vor Übernahmen durch ausländische Käufer geschützt werden?", "topic": "Economy"}
+{"id": 3443, "text": "Befürworten Sie eine vollständige Liberalisierung der Geschäftsöffnungszeiten?", "topic": "Economy"}
+{"id": 3444, "text": "Soll der Kündigungsschutz für ältere Angestellte ausgebaut werden?", "topic": "Economy"}
+{"id": 3445, "text": "Soll der Bund das Service-Public-Angebot (z.B. ÖV-Verbindungen, Poststellen) in den ländlichen Regionen stärker fördern?", "topic": "Economy"}
+{"id": 3446, "text": "Soll der Ausbau des Mobilfunknetzes nach 5G-Standard weiter vorangetrieben werden?", "topic": "Digitisation"}
+{"id": 3447, "text": "Sollen Online-Vermittlungsdienste (z.B. \"Airbnb\"-Unterkünfte, \"Uber\"-Taxidienste) stärker reguliert werden?", "topic": "Digitisation"}
+{"id": 3448, "text": "Eine Initiative fordert, dass die Schweiz ab 2050 auf die Verwendung fossiler Energieträger verzichtet. Unterstützen Sie dieses Anliegen?", "topic": "Infrastructure & Environment"}
+{"id": 3449, "text": "Bislang wird auf fossile Brennstoffe (z.B. Heizöl oder Erdgas) eine CO2-Abgabe erhoben. Soll diese Abgabe auch auf Treibstoffe (z.B. Benzin und Diesel) ausgeweitet werden?", "topic": "Infrastructure & Environment"}
+{"id": 3450, "text": "Soll der Bund erneuerbare Energien stärker fördern?", "topic": "Infrastructure & Environment"}
+{"id": 3451, "text": "Sollen stark befahrene Autobahnabschnitte auf sechs Spuren ausgebaut werden?", "topic": "Infrastructure & Environment"}
+{"id": 3452, "text": "Befürworten Sie die Einführung von \"Road Pricing\" für den motorisierten Individualverkehr auf vielbefahrenen Strassen?", "topic": "Infrastructure & Environment"}
+{"id": 3453, "text": "Befürworten Sie eine Lockerung der aktuell gültigen Schutzbestimmungen für Grossraubtiere (Luchs, Wolf, Bär)?", "topic": "Infrastructure & Environment"}
+{"id": 3454, "text": "Soll das geltende Moratorium für gentechnisch veränderte Pflanzen und Tiere in der Schweizer Landwirtschaft über das Jahr 2021 hinaus verlängert werden?", "topic": "Infrastructure & Environment"}
+{"id": 3455, "text": "Sollen nur noch Landwirte Direktzahlungen erhalten, die einen erweiterten ökologischen Leistungsnachweis erbringen (u.a. Verzicht auf synthetische Pestizide und Beschränkung des Antibiotika-Einsatzes)?", "topic": "Infrastructure & Environment"}
+{"id": 3456, "text": "Befürworten Sie einen Ausbau des Landschaftsschutzes (z.B. strengere Regeln zum Bauen ausserhalb bestehender Bauzonen)?", "topic": "Infrastructure & Environment"}
+{"id": 3457, "text": "Befürworten Sie strengere Tierschutzregelungen für die Haltung von Nutztieren (z.B. permanenter Zugang zum Aussenbereich)?", "topic": "Infrastructure & Environment"}
+{"id": 3458, "text": "Soll die Finanzierung von Parteien sowie von Wahl- und Abstimmungskampagnen offengelegt werden müssen?", "topic": "Political System"}
+{"id": 3459, "text": "Soll die Einführung der elektronischen Stimmabgabe bei Wahlen und Abstimmungen (E-Voting) weiter vorangetrieben werden?", "topic": "Political System"}
+{"id": 3460, "text": "Befürworten Sie die Senkung des Stimmrechtsalters auf 16 Jahre?", "topic": "Political System"}
+{"id": 3461, "text": "Soll auf die vom Bundesrat vorgeschlagene Verschärfung der Zulassungsbedingungen zum Zivildienst verzichtet werden?", "topic": "Security"}
+{"id": 3462, "text": "Sollen Exporte von Kriegsmaterial aus der Schweiz verboten werden?", "topic": "Security"}
+{"id": 3463, "text": "Befürworten Sie die Beschaffung neuer Kampfflugzeuge für die Schweizer Armee?", "topic": "Security"}
+{"id": 3464, "text": "Würden Sie eine Ausdehnung der rechtlichen Möglichkeiten zur Fahndung mittels DNA-Analyse befürworten?", "topic": "Security"}
+{"id": 3468, "text": "Soll die Schweiz Verhandlungen über den Beitritt zur EU aufnehmen?", "topic": "Foreign Policy"}
+{"id": 3469, "text": "Soll der Bundesrat ein Freihandelsabkommen mit den USA anstreben?", "topic": "Foreign Policy"}
+{"id": 3470, "text": "Eine Initiative fordert, dass die Haftungsregeln für Unternehmen mit Sitz in der Schweiz in Bezug auf die Einhaltung von Menschenrechten und Umweltstandards im Ausland verschärft werden. Befürworten Sie dies?", "topic": "Foreign Policy"}
+{"id": 3471, "text": "Befürworten Sie die Kandidatur der Schweiz für einen Sitz im UNO-Sicherheitsrat?", "topic": "Foreign Policy"}
