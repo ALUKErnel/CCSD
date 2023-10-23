@@ -67,13 +67,13 @@ The results and the trained cross-teacher teahcer model will be saved in "./save
 ## Dual Knowledge Distillation 
 
 
-The language knowledge and target knowledge learned from the two teachers are transferred to the student with dual distillation process. 
+The language and target knowledge learned from the two teachers are transferred to the student with dual distillation process. 
 
 ```shell
 python code_dual_distillation/main_distillation_both.py --student_model_save_file ./save_dual_distillation/politics_all --sub_dataset politics --target_setting all
 ```
 
-The results will be saved in "./save_dual_distillation/[```SUB_DATASET```]_[```TARGET_SETTING```]". We select the epoch with the best performance on validation set, and the test performance in that epoch is the final results of the cross-lingual cross-target stance detection task. 
+The results will be saved in "./save_dual_distillation/[```SUB_DATASET```]_[```TARGET_SETTING```]". We select the epoch with the best performance on the validation set, and the test performance in that epoch is the final result of the cross-lingual cross-target stance detection task. 
 
 
 
@@ -89,7 +89,7 @@ TO BE UPDATED
 - ADAN (basic structure) [(https://github.com/ccsasuke/adan)](https://github.com/ccsasuke/adan)
 - JointCL (k-means) [(https://github.com/HITSZ-HLT/JointCL)](https://github.com/HITSZ-HLT/JointCL)
 
-All the above references have been cited in the paper. We thank them for their contributions of open source.
+All the above references have been cited in the paper. We thank them for their contributions to open source.
 
 
 
