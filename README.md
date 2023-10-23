@@ -5,7 +5,7 @@ This project is the source code of Cross-lingual Cross-target Stance Detection M
 ## Abstract 
 Stance detection aims to identify the user’s attitude toward specific targets from *text*, which is an important research area in text mining and benefits a variety of application domains. Existing studies on stance detection were conducted mainly in English. Due to the low-resource problem in most non-English languages, cross-lingual stance detection was proposed to transfer knowledge from high-resource (source) language to low-resource (target) language. However, previous research has ignored the practical issue of no labeled training data available in target language. Moreover, target inconsistency in cross-lingual stance detection brings about the additional issue of unseen targets in target language, which in essence requires the transfer of both language and target-oriented knowledge from source to target language. To tackle these challenging issues, in this paper, we propose the new task of cross-lingual cross-target stance detection and develop the first computational work with dual knowledge distillation. Our proposed framework designs a cross-lingual teacher and a cross-target teacher using the source language data and a dual distillation process that transfers the two types of knowledge to target language. To bridge the target discrepancy between languages, cross-target teacher mines target category information and generalizes it to the unseen targets in target language via category-oriented learning. Experimental results on multilingual stance datasets demonstrate the effectiveness of our method compared to the competitive baselines.
 
-# Organization of Project
+## Organization of Project
 
 The project contains three main folders of code:
 - code_cross-lingual_teacher: pre-training code for cross-lingual teacher model 
@@ -14,9 +14,7 @@ The project contains three main folders of code:
 
 Besides,
 - dataset: dataset of X-stance
-- save_cross-lingual_teacher: saved cross-lingual teacher
-- save_cross-target_teacher: saved cross-target teacher 
-- save_dual_distillation: final dual distillation process (evaluate)
+- requirements.txt: setup
 
 
 
