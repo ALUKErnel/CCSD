@@ -2,6 +2,8 @@
 # Overview 
 This project is the source code of Cross-lingual Cross-target Stance Detection Method (CCSD), which is proposed in the paper "Cross-Lingual Cross-Target Stance Detection with Dual Knowledge Distillation Framework" (accepted by EMNLP 2023).
 
+## Abstract 
+Stance detection aims to identify the user’s attitude toward specific targets from *text*, which is an important research area in text mining and benefits a variety of application domains. Existing studies on stance detection were conducted mainly in English. Due to the low-resource problem in most non-English languages, cross-lingual stance detection was proposed to transfer knowledge from high-resource (source) language to low-resource (target) language. However, previous research has ignored the practical issue of no labeled training data available in target language. Moreover, target inconsistency in cross-lingual stance detection brings about the additional issue of unseen targets in target language, which in essence requires the transfer of both language and target-oriented knowledge from source to target language. To tackle these challenging issues, in this paper, we propose the new task of cross-lingual cross-target stance detection and develop the first computational work with dual knowledge distillation. Our proposed framework designs a cross-lingual teacher and a cross-target teacher using the source language data and a dual distillation process that transfers the two types of knowledge to target language. To bridge the target discrepancy between languages, cross-target teacher mines target category information and generalizes it to the unseen targets in target language via category-oriented learning. Experimental results on multilingual stance datasets demonstrate the effectiveness of our method compared to the competitive baselines.
 
 # Organization of Project
 
@@ -55,7 +57,7 @@ The results and the trained cross-lingual teacher model will be saved in "./save
 
 ## Cross-target Teacher Training 
 
-To bridge the language gap, the encoder of cross-target teacher is initialized with the cross-lingual teacher. Therefore, please run the following command to train cross-target teacher based on the path of cross-lingual teacher --cross-lingual teacher 
+To bridge the language gap, the encoder of cross-target teacher is initialized with the cross-lingual teacher. Therefore, please run the following command to train cross-target teacher based on the path of cross-lingual teacher:
 
 ```shell
 python code_cross-target_teacher/main_teacher_initialized.py --cross_target_teacher_model_save_file ./save_cross-target_teacher/cluster_initialized_politics_all --sub_dataset politics --target_setting all
