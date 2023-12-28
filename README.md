@@ -79,7 +79,9 @@ The results will be saved in "./save_dual_distillation/[```SUB_DATASET```]_[```T
 
 # Citation
 
-TO BE UPDATED
+If you find this repo useful, please cite our paper: 
+
+Ruike Zhang, Hanxuan Yang, and Wenji Mao. 2023. Cross-Lingual Cross-Target Stance Detection with Dual Knowledge Distillation Framework. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 10804–10819, Singapore. Association for Computational Linguistics.
 
 
 # Acknowledgment 
